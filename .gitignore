@@ -1,0 +1,6 @@
+*/.idea/
+*/.DS_Store/
+cs/*/bin/
+cs/*/obj/
+.DS_Store
+.idea/
