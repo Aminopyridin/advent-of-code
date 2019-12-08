@@ -56,7 +56,7 @@ namespace day8
 
             for (int i = 0; i < height; i++)
             {
-                Console.WriteLine(resultLayer.Substring(i * width, width).Replace('1', '*').Replace('0', ' '));
+                Console.WriteLine(resultLayer.Substring(i * width, width).Replace('1', '❚').Replace('0', ' '));
             }
 
         }
